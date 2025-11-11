@@ -1,0 +1,20 @@
+
+yggdrasil2Cen.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Summon_b_2040027000
+  rotate: false
+  xy: 1, 1
+  size: 639, 628
+  orig: 640, 628
+  offset: 1, 0
+  index: -1
+Summon_b_2040027000 - Copy
+  rotate: false
+  xy: 1, 631
+  size: 639, 628
+  orig: 640, 628
+  offset: 1, 0
+  index: -1

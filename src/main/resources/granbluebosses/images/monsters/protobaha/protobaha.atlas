@@ -1,0 +1,55 @@
+
+protobaha.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Armature_idle2_0
+  rotate: false
+  xy: 853, 1
+  size: 1074, 914
+  orig: 1100, 1000
+  offset: 18, 41
+  index: -1
+Armature
+  rotate: false
+  xy: 853, 917
+  size: 802, 672
+  orig: 850, 750
+  offset: 32, 26
+  index: -1
+white-transition
+  rotate: false
+  xy: 1, 1
+  size: 850, 1511
+  orig: 850, 1511
+  offset: 0, 0
+  index: -1
+sprite-6-3
+  rotate: false
+  xy: 217, 1670
+  size: 207, 167
+  orig: 207, 167
+  offset: 0, 0
+  index: -1
+sprite-5-2_2
+  rotate: false
+  xy: 1, 1670
+  size: 214, 214
+  orig: 216, 216
+  offset: 1, 1
+  index: -1
+sprite-4-2_1
+  rotate: false
+  xy: 442, 1514
+  size: 237, 229
+  orig: 237, 229
+  offset: 0, 0
+  index: -1
+rag_field/sprite-4-1_2
+  rotate: false
+  xy: 1, 1514
+  size: 439, 154
+  orig: 441, 156
+  offset: 1, 1
+  index: -1

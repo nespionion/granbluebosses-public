@@ -1,0 +1,188 @@
+
+grandorder2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+phase2/408px-Summon_b_2040065000
+  rotate: false
+  xy: 1, 1
+  size: 408, 400
+  orig: 408, 400
+  offset: 0, 0
+  index: -1
+phase2/sprite8
+  rotate: false
+  xy: 674, 288
+  size: 222, 238
+  orig: 222, 238
+  offset: 0, 0
+  index: -1
+phase2/sprite18
+  rotate: false
+  xy: 1, 403
+  size: 249, 444
+  orig: 249, 444
+  offset: 0, 0
+  index: -1
+phase2/sprite16
+  rotate: false
+  xy: 674, 1
+  size: 278, 285
+  orig: 278, 285
+  offset: 0, 0
+  index: -1
+phase2/sprite20
+  rotate: false
+  xy: 411, 1
+  size: 261, 434
+  orig: 261, 434
+  offset: 0, 0
+  index: -1
+phase2/sprite14
+  rotate: false
+  xy: 779, 528
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+phase2/sprite24
+  rotate: false
+  xy: 618, 662
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+phase2/sprite17
+  rotate: false
+  xy: 544, 661
+  size: 72, 124
+  orig: 72, 124
+  offset: 0, 0
+  index: -1
+phase2/sprite21
+  rotate: false
+  xy: 732, 662
+  size: 33, 104
+  orig: 33, 104
+  offset: 0, 0
+  index: -1
+phase2/sprite13
+  rotate: false
+  xy: 252, 603
+  size: 174, 163
+  orig: 174, 163
+  offset: 0, 0
+  index: -1
+phase2/sprite4
+  rotate: false
+  xy: 252, 437
+  size: 213, 164
+  orig: 213, 164
+  offset: 0, 0
+  index: -1
+phase2/sprite19
+  rotate: false
+  xy: 502, 861
+  size: 146, 84
+  orig: 146, 84
+  offset: 0, 0
+  index: -1
+phase2/sprite9
+  rotate: false
+  xy: 618, 754
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+phase2/sprite1
+  rotate: false
+  xy: 289, 768
+  size: 156, 172
+  orig: 156, 172
+  offset: 0, 0
+  index: -1
+phase2/sprite6
+  rotate: false
+  xy: 428, 603
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+phase2/sprite7
+  rotate: false
+  xy: 1, 849
+  size: 286, 158
+  orig: 286, 158
+  offset: 0, 0
+  index: -1
+phase2/sprite3
+  rotate: false
+  xy: 779, 650
+  size: 93, 106
+  orig: 93, 106
+  offset: 0, 0
+  index: -1
+phase2/sprite10
+  rotate: false
+  xy: 502, 947
+  size: 228, 48
+  orig: 228, 48
+  offset: 0, 0
+  index: -1
+phase2/sprite2
+  rotate: false
+  xy: 619, 528
+  size: 158, 132
+  orig: 158, 132
+  offset: 0, 0
+  index: -1
+phase2/sprite11
+  rotate: false
+  xy: 898, 288
+  size: 118, 195
+  orig: 118, 195
+  offset: 0, 0
+  index: -1
+phase2/sprite5
+  rotate: false
+  xy: 447, 861
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+phase2/sprite12
+  rotate: false
+  xy: 467, 437
+  size: 150, 222
+  orig: 150, 222
+  offset: 0, 0
+  index: -1
+phase2/sprite15
+  rotate: false
+  xy: 898, 485
+  size: 100, 175
+  orig: 100, 175
+  offset: 0, 0
+  index: -1
+phase2/sprite22
+  rotate: false
+  xy: 447, 891
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+phase2/sprite23
+  rotate: false
+  xy: 289, 942
+  size: 211, 76
+  orig: 211, 76
+  offset: 0, 0
+  index: -1
+phase2/sprite25
+  rotate: false
+  xy: 447, 661
+  size: 95, 198
+  orig: 95, 198
+  offset: 0, 0
+  index: -1

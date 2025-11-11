@@ -1,0 +1,41 @@
+
+luminiera2.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sprite4
+  rotate: false
+  xy: 433, 631
+  size: 405, 474
+  orig: 405, 474
+  offset: 0, 0
+  index: -1
+sprite3
+  rotate: false
+  xy: 1, 631
+  size: 430, 472
+  orig: 430, 472
+  offset: 0, 0
+  index: -1
+sprite2
+  rotate: false
+  xy: 643, 128
+  size: 79, 198
+  orig: 79, 198
+  offset: 0, 0
+  index: -1
+sprite1
+  rotate: false
+  xy: 643, 1
+  size: 202, 125
+  orig: 202, 125
+  offset: 0, 0
+  index: -1
+Summon_b_2040047000
+  rotate: false
+  xy: 1, 1
+  size: 640, 628
+  orig: 640, 628
+  offset: 0, 0
+  index: -1

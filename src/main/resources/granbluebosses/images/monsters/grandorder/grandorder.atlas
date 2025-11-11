@@ -1,0 +1,181 @@
+
+grandorder.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grandorder_phase1_idle
+  rotate: false
+  xy: 1, 1520
+  size: 408, 323
+  orig: 409, 325
+  offset: 1, 1
+  index: -1
+grandorder_phase1_attacks
+  rotate: false
+  xy: 1, 1203
+  size: 429, 315
+  orig: 489, 380
+  offset: 58, 17
+  index: -1
+grandorder_phase2_idle
+  rotate: false
+  xy: 1, 661
+  size: 636, 540
+  orig: 636, 540
+  offset: 0, 0
+  index: -1
+grandorder_phase2_attacks1
+  rotate: false
+  xy: 639, 1110
+  size: 636, 515
+  orig: 636, 515
+  offset: 0, 0
+  index: -1
+grandorder_phase2_attacks4
+  rotate: false
+  xy: 699, 593
+  size: 696, 515
+  orig: 696, 515
+  offset: 0, 0
+  index: -1
+grandorder_phase2_attacks2
+  rotate: false
+  xy: 699, 1
+  size: 696, 590
+  orig: 696, 591
+  offset: 0, 1
+  index: -1
+grandorder_phase2_attacks3
+  rotate: false
+  xy: 1, 1
+  size: 696, 658
+  orig: 696, 658
+  offset: 0, 0
+  index: -1
+go-not-combined1/sprite-6-2
+  rotate: false
+  xy: 411, 1746
+  size: 206, 224
+  orig: 207, 226
+  offset: 0, 1
+  index: -1
+go-not-combined1/sprite-8-1
+  rotate: false
+  xy: 828, 1828
+  size: 196, 184
+  orig: 197, 186
+  offset: 1, 1
+  index: -1
+go-not-combined1/sprite-8-3
+  rotate: false
+  xy: 242, 1845
+  size: 158, 146
+  orig: 160, 148
+  offset: 1, 1
+  index: -1
+go-not-combined1/sprite-6-1
+  rotate: false
+  xy: 1026, 1976
+  size: 40, 42
+  orig: 42, 44
+  offset: 1, 1
+  index: -1
+go-not-combined1/sprite-8-2
+  rotate: false
+  xy: 432, 1429
+  size: 88, 81
+  orig: 90, 83
+  offset: 1, 1
+  index: -1
+go-not-combined1/sprite-9-4
+  rotate: false
+  xy: 432, 1203
+  size: 185, 224
+  orig: 186, 226
+  offset: 0, 1
+  index: -1
+conjuction/sprite1
+  rotate: false
+  xy: 636, 1627
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+conjuction/sprite10
+  rotate: false
+  xy: 1313, 1627
+  size: 104, 91
+  orig: 104, 91
+  offset: 0, 0
+  index: -1
+conjuction/sprite11
+  rotate: false
+  xy: 837, 1627
+  size: 178, 191
+  orig: 178, 191
+  offset: 0, 0
+  index: -1
+conjuction/sprite12
+  rotate: false
+  xy: 1017, 1627
+  size: 175, 148
+  orig: 175, 148
+  offset: 0, 0
+  index: -1
+conjuction/sprite2
+  rotate: false
+  xy: 1026, 1777
+  size: 300, 59
+  orig: 300, 59
+  offset: 0, 0
+  index: -1
+conjuction/sprite3
+  rotate: false
+  xy: 411, 1520
+  size: 223, 224
+  orig: 223, 224
+  offset: 0, 0
+  index: -1
+conjuction/sprite4
+  rotate: false
+  xy: 522, 1429
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+conjuction/sprite5
+  rotate: false
+  xy: 1194, 1838
+  size: 90, 170
+  orig: 90, 170
+  offset: 0, 0
+  index: -1
+conjuction/sprite6
+  rotate: false
+  xy: 1026, 1838
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+conjuction/sprite7
+  rotate: false
+  xy: 1194, 1627
+  size: 117, 116
+  orig: 117, 116
+  offset: 0, 0
+  index: -1
+conjuction/sprite8
+  rotate: false
+  xy: 619, 1845
+  size: 207, 201
+  orig: 207, 201
+  offset: 0, 0
+  index: -1
+conjuction/sprite9
+  rotate: false
+  xy: 1, 1845
+  size: 239, 196
+  orig: 239, 196
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,223 @@
+{
+  "${modID}:EventID": {
+    "NAME": "Event Name",
+    "DESCRIPTIONS": [
+      "This is event text, generally used to describe what's happening.",
+      "#g~This~ #g~text~ #g~is~ #g~green~ #g~and~ #g~wavy.~",
+      "#r@RED@ #r@AND@ #r@VIBRATING@ #r@TEXT.@",
+      "#rRed #gGreen #yYellow #bBlue #pPurple. ~Wavy~ @vibrating.@",
+      "You have to mark every word individually.",
+      "You can also use [#ffffff]white[] hex color codes like this to color text.",
+      "Hex color codes also work in card text! But not on keywords, without some workarounds."
+    ],
+    "OPTIONS": [
+      "[Action Description] What you actually get.",
+      "[Denial] #rLose #r1 #rMax #rHP. Bad stuff is red.",
+      "[Acceptance] #gGain #gApotheosis. Good stuff is green.",
+      "[Leave]",
+      "Select card to remove. (You can also stick extra text like this in here.)"
+    ]
+  },
+  "${modID}:ZooeyEvent": {
+    "NAME": "Keeper of Balance",
+    "DESCRIPTIONS": [
+      "As you attempt to get some rest in what seems to be a secure place, you awaken floating far above the clouds. NL A woman clad in armor and a blue dress, surrounded by small dragons stands before you. NL As she speaks her voice echoes in your head, as if she was speaking from all directions. NL \"#b@Being@ #b@from@ #b@outside@ #b@these@ #b@skies,@ #b@I@ #b@ask@ #b@thee,@ #b@are@ #b@you@ #b@an@ #b@enemy@ #b@of@ #b@order?@\"",
+
+      "\"#b@So@ #b@be@ #b@it.@ #b@I@ #b@shall@ #b@soon@ #b@eliminate@ #b@you,@ #b@stranger@ #b@from@ #b@beyond@ #b@the@ #b@skies.@\" NL The woman disappears. Then you wake up as if from a dream, a strange sense of foreboding haunting you.",
+
+      "The woman's expression softens. NL #bThen #bI #bshall #bhope #bthat #bthese #bskies #btreat #byou #bwell. NL The woman disappears. Then you wake up as if from a dream, a blue feather resting in your hand."
+    ],
+    "OPTIONS": [
+      "[Yes] The #rBOSS for this act changes.",
+      "[No] Receive a #ggift.",
+      "[Leave]"
+    ]
+  },
+  "${modID}:CelesteEvent": {
+    "NAME": "Anchor of Celeste",
+    "DESCRIPTIONS": [
+      "A former adversary appears before you, composed, but without demonstrating any overt malice. She offers to give you a pendant, for a price.",
+      "Darkstone Periapt."
+    ],
+    "OPTIONS": [
+      "[Accept] #gGet #gan #gUncommon #grelic. #rLose #r",
+      " #rMax #rHP.",
+      "[Reject]"
+    ]
+  },
+  "${modID}:ColossusEvent": {
+    "NAME": "Steel of the Iron Giant",
+    "DESCRIPTIONS": [
+      "A former adversary appears before you, its blade sheathed this time. Apologetic for the harm it cause you, it offers to grant you strength."
+    ],
+    "OPTIONS": [
+      "[Accept] #gUpdrade #ga #gcard #gin #gyour #gdeck.",
+      "[Reject]"
+    ]
+  },
+  "${modID}:LeviathanEvent": {
+    "NAME": "Dew of Leviathan",
+    "DESCRIPTIONS": [
+      "A former adversary appears before you. Without a word, the serpent surrounds you with its water magic, healing your wounds. NL Then it leaves as quickly as it appeared."
+    ],
+    "OPTIONS": [
+      "#gHeal #g",
+      " #gHP.",
+      "[Leave]"
+    ]
+  },
+  "${modID}:LuminieraEvent": {
+    "NAME": "Pride of Luminiera",
+    "DESCRIPTIONS": [
+      "A former adversary appears before you, satisfied with the result of your fight. As reward for your previous victory, she offers to cleanse your curse."
+    ],
+    "OPTIONS": [
+      "[Accept] #gRemove #ga #grandom #gCurse #gfrom #gyour #gdeck.",
+      "[Reject]"
+    ]
+  },
+  "${modID}:TiamatEvent": {
+    "NAME": "Morning Calm of Tiamat",
+    "DESCRIPTIONS": [
+      "A former adversary appears before you. As you prepare to fight, she tells you to stand down and offers to free you from the chains of your past."
+    ],
+    "OPTIONS": [
+      "[Accept] #gPermanently #gremove #ga #gcard #gfrom #gyour #gdeck.",
+      "[Reject]"
+    ]
+  },
+  "${modID}:YggdrasilEvent": {
+    "NAME": "Leaf of Yggdrasil",
+    "DESCRIPTIONS": [
+      "A former adversary appears before you, though without a shred of her former aggression. Worried for you, she offers to grant you her aid."
+    ],
+    "OPTIONS": [
+      "[Accept] #gGain #g",
+      " #gMax #gHP.",
+      "[Reject]"
+    ]
+  },
+  "${modID}:FireEvent": {
+    "NAME": "Forest Fire",
+    "DESCRIPTIONS": [
+      "A sudden blue fire has ignited behind you. It feels strangely persistent in catching you despite your attempts to evade it.",
+      "You throw the first thing you manage to grab a hold of in your bag. The fire burns it to a crisp before rapidly subsiding.",
+      "You scramble to get a potion from your bag and quickly empty its contents. NL As if it were alive and aware of your intentions, ",
+      "the fire retreats before you can capture any of it.",
+      "the fire enters the bottle on its own.",
+      "You hide in a small nearby cave, you barely fit, but you hope the fire will not find you here. NL ",
+      "The fire passes by. You're safe. NL ",
+      "Unfortunately, the fire finds you and burns you as you fail to retreat. Eventually, it subsides, and you exit the cave worse for wear. NL The outside didn't fair much better than you. ",
+      "The only thing left in the fire's wake is a small dead branch.",
+      "There's nothing left in the fire's wake."
+    ],
+    "OPTIONS": [
+      "[Quickly! Throw something at it!] Permanently remove a #rrandom card from your deck.",
+      "[Attempt to capture it] #rLose #ra #rrandom #rpotion. 50% #gGet #gan #gUncommon #gRelic.",
+      "Missing a bottle.",
+      "[Hide and wait it out] 12% #gGet #gan #gRare #gRelic. Also, 50% #rLose #r",
+      " HP.",
+      "[Keep running]"
+    ]
+  },
+  "${modID}:LushEvent": {
+    "NAME": "Lush Jungle",
+    "DESCRIPTIONS": [
+      "You reach a small creek. The water looks clear, and the area seems safe. NL ",
+      "You grab the fruit and eat it. NL ",
+      "~It~ ~tastes~ ~delicious.~ You feel invigorated",
+      "It tastes #r@disgusting@. You feel ill."
+    ],
+    "OPTIONS": [
+      "[ Eat the #rRed #rFruit ] ?% #gGain #gMax #gHP or ?% #rLose #rMax #rHP",
+      "[ Eat the #bBlue #bFruit ] ?% #gGain #gMax #gHP or ?% #rLose #rMax #rHP",
+      "[ Eat the #gGreen #gFruit ]  ?% #gGain #gMax #gHP or ?% #rLose #rMax #rHP",
+      "[Leave]"
+    ]
+  },
+  "${modID}:RiverEvent": {
+    "NAME": "A Small Creek",
+    "DESCRIPTIONS": [
+      "You reach a small creek. The water looks clear, and the area seems safe."
+    ],
+    "OPTIONS": [
+      "[Clean yourself in the river] #gPermanently #gremove #ga #gcard #gfrom #gyour #gdeck.",
+      "[Rest of a while] Heal ",
+      " HP",
+      "[Clean your gear] #gUpgrade #g2 #grandom #gcards",
+      "[Leave]"
+    ]
+  },
+  "${modID}:RuinsEvent": {
+    "NAME": "Old Ruins",
+    "DESCRIPTIONS": [
+      "Old ruins stand before you. This place appears to be what remains of some old settlement. NL There might be some useful things to find if search hard enough."
+    ],
+    "OPTIONS": [
+      "[Search the ruins] #gChoose #g",
+      " #gcards #gto #gadd #gto #gyour #gdeck",
+      "[Leave]"
+    ]
+  },
+  "${modID}:Shrine6Event": {
+    "NAME": "Candles",
+    "DESCRIPTIONS": [
+      "You find some peculiarly arranged candles at the entrance of a cave. Most of them are lit up.",
+      "The now lit candle illuminates some gold underneath the wax.",
+      "As you put out the candle's light, you feel relaxed. Your mind feels sharper, less clouded by distractions.",
+      "You take one of the candles for yourself. Soon after, you start feeling #yashamed for stealing it."
+    ],
+    "OPTIONS": [
+      "[Lit one of the unlit candles] #g???",
+      "[Put out a lit candle] #b???",
+      "[Take one of the candles] #gGet #gan #gUncommon #gRelic. #rAdd #ra #rshame #rto #ryour #rdeck.",
+      "[Leave]"
+    ]
+  },
+  "${modID}:Shrine10Event": {
+    "NAME": "Corrupted Shrine",
+    "DESCRIPTIONS": [
+      "A small shrine is surrounded by a dark fog. You get shivers just by standing near it."
+    ],
+    "OPTIONS": [
+      "[Pray] #rObtain #ra #rCurse. #gObtain #ga #grandom #gCommon #gRelic.",
+      "[Leave]"
+    ]
+  },
+  "${modID}:Act1Entry": {
+    "NAME": "Sky and Stars",
+    "DESCRIPTIONS": [
+      "You are floating atop a sea of clouds, and above you is a starry night sky. As you begin to process your situation, two voices echo in your head. NL @\"BEING@ @FROM@ @ANOTHER@ @WORLD,@ #b@DO@ #b@YOU@ #b@SERVE@ #b@THE@ #b@STARS?@ #r@OR@ #r@DO@ #r@YOU@ #r@SERVE@ #r@THE@ #r@SKIES?\"@",
+      "A pade blue-haired woman clad in white robes appears before you. NL #b\"An #bobvious #bchoice\" NL Despite her speaking in a much softer tone, you identify her voice as one of the two you just heard. NL #b\"Even #bas #ba #bfoster #bchild, #byou #bare #bhenceforth #bmy #bchild #bstill. #bThus, #bas #byour #bnew #bgod and #bmother, #bI #bshall #bgrant #byou #ba #bblessing\"",
+      "A red-skin blue-haired woman with six arms appears before you. NL #r\"An #robvious #rchoice\" NL Despite her without as much aggression, you identify her voice as one of the two you just heard. NL #r\"Your #rinvolvement #rin #rthe #revolution #rof #rthese #rskies #rwill #rnow #rbe #raccounted #rfor. #rNow, #ras #ryour #rnew #rgod, #rI #rshall #rgrant #ryou #ra #rblessing\"",
+      "#b\"With #bpleasure. #bMay #bthis #bworld #bbe #bkind #bto #byou, #bmy #bchild.\" NL ",
+      "#r\"Very #rwell. #rMay #rthe #rskies #rfuther #ryour #rgrowth, #rbeing #rfrom #rbeyond #rthe #rskies.\" NL ",
+      "You awaken if as from a dream on a field of grass, the woman is nowhere to be seen. Nevertheless, you've finally escaped that accursed Spire! NL As you look around, you realize you're standing on one of many islands, all floating over and within an endlessly vast blue sky."
+    ],
+    "OPTIONS": [
+      "#r[Serve #rthe #rSkies]",
+      "#b[Serve #bthe #bStars]",
+      "#b[ ",
+      " #b]",
+      "#r[ ",
+      " #r]",
+      "#gChoose #g1 #gOmega #gColorless #gcard #gfrom #gthe #gskies #gto #gobtain.",
+      "#gObtain #ga #rrandom #yRare #gcard.",
+      "#g+10 #gMax #gHP.",
+      "#gTransform #ga #rrandom #gcard #gand #gupgrade #ga #rrandom #gcard.",
+      "#gRemove #g2 #rrandom #gcards.",
+      "===== Choice 2 Disadvantages =======",
+      "#rLose #r7 #rMax #rHP. ",
+      "#rObtain #ra #rCurse. ",
+      "#rLose #rall #rGold. ",
+      "===== Choice 2 Advantages =======",
+      "#gRemove #g2 #rrandom #gcards #gand #gtransform #g2 #rrandom #gcards",
+      "#gChoose #g1 #yCall Colorless #gcard #gfrom #gthe #gskies #gto #gobtain.",
+      "#gObtain #ga #rrandom #gBoss #gRelic.",
+      "===== Choice 3 =======",
+      "#b[ #gObtain #ga #gSpecial #gRelic #b]",
+      "#r[ #gObtain #ga #gSpecial #gRelic #r]",
+      "[Leave]"
+    ]
+  }
+}

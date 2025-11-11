@@ -1,0 +1,41 @@
+
+celeste.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sprite5
+  rotate: false
+  xy: 643, 1
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
+sprite4
+  rotate: false
+  xy: 479, 631
+  size: 157, 160
+  orig: 157, 160
+  offset: 0, 0
+  index: -1
+sprite3
+  rotate: false
+  xy: 638, 631
+  size: 110, 160
+  orig: 110, 160
+  offset: 0, 0
+  index: -1
+sprite2
+  rotate: false
+  xy: 1, 631
+  size: 476, 533
+  orig: 476, 533
+  offset: 0, 0
+  index: -1
+sprite1
+  rotate: false
+  xy: 1, 1
+  size: 640, 628
+  orig: 640, 628
+  offset: 0, 0
+  index: -1

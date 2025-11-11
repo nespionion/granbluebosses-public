@@ -1,0 +1,42 @@
+{
+  "${modID}:Example": {
+    "TEXT": [
+      "This is",
+      "an array of Strings."
+    ],
+    "EXTRA_TEXT": [
+      "This is another",
+      "array of Strings."
+    ],
+    "TEXT_DICT": {
+      "This": "Contains pairs of Strings, used to get values based on keys.",
+      "This is a key": "This is a value."
+    }
+  },
+  "${modID}:your_intent": {
+    "TEXT": [
+      "High Quality Intent",
+      "This enemy intends to NL do something involving the number #b",
+      " and ",
+      "Stuff."
+    ]
+  },
+  "${modID}:Act1Skies": {
+    "TEXT": [
+      "Grand Blue Skies",
+      "Act 1",
+      "#bYou #bfeel #ban #bunexpectedly #bpleasant #bbreeze #bfrom #ba #bcrack #bin #bthe #bwall. #bBeyond #bit #byou #bsee #bnothing #bbut #blight.",
+      "#bGo #bthrough #ba #bglowing #bcrack #bon #bthe #bwall.",
+      "#bEnter #ba #bglowing #bcrack #bon #bthe #bwall.",
+      "A set of floating islands where primal beasts with elemental associations reside."
+    ]
+  },
+  "${modID}:ConfigMenu": {
+    "TEXT_DICT": {
+      "enableDMCAMusic": "Enable DMCA Music from the original game's OST.",
+      "modestyFilter": "Enable censored artwork. WARNING: Image edits are low quality.",
+      "enableExtraRewards": "Enable additional rewards after certain fights. NOTE: the mod is balanced with these in mind.",
+      "enableStartOfActEvents": "Enables custom events at the start of each act. NOTE: the mod is balanced with these in mind."
+    }
+  }
+}

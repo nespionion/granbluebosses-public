@@ -1,0 +1,13 @@
+
+tiamatCen.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Armature
+  rotate: false
+  xy: 1, 1
+  size: 641, 619
+  orig: 641, 629
+  offset: 0, 10
+  index: -1

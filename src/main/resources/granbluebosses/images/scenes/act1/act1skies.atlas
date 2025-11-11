@@ -1,0 +1,234 @@
+
+act1skies_0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+campfire
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 0
+
+act1skies_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-luminiera
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 1
+
+act1skies_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-europa
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 2
+
+act1skies_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-grandorder1
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 3
+
+act1skies_4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-celeste
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 4
+
+act1skies_5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-grandorder2
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 5
+
+act1skies_6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 6
+
+act1skies_7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-yggy
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 7
+
+act1skies_8.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-grandorder3
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 8
+
+act1skies_9.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-protobaha1
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 9
+
+act1skies_10.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-alex
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 10
+
+act1skies_11.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-colossus
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 11
+
+act1skies_12.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+event
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 12
+
+act1skies_13.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-shiva
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 13
+
+act1skies_14.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-grimnir
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 14
+
+act1skies_15.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-leviathan
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 15
+
+act1skies_16.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-protobaha2
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 16
+
+act1skies_17.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fight-cropped-tiamat
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1134
+  orig: 1920, 1134
+  offset: 0, 0
+  index: 17

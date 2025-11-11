@@ -1,0 +1,13 @@
+
+yggdrasil.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Summon_b_2030015000
+  rotate: false
+  xy: 1, 1
+  size: 586, 627
+  orig: 640, 628
+  offset: 54, 1
+  index: -1

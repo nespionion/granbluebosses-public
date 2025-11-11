@@ -1,0 +1,144 @@
+{
+  "${modID}:RelicID": {
+    "NAME": "Good Relic",
+    "FLAVOR": "Flavor text displayed in detailed relic view.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. [E] is an energy icon."
+    ]
+  },
+  "${modID}:BlueCrystal": {
+    "NAME": "Blue Crystal",
+    "FLAVOR": "A crystal that brilliantly shines in the light.",
+    "DESCRIPTIONS": [
+      "The first time each combat that you gain #yStrength, #yDexterity, #yFocus, or #yEnergy, gain 1 more."
+    ]
+  },
+  "${modID}:BlueCrystalBelial": {
+    "NAME": "Blue Crystal",
+    "FLAVOR": "A crystal that brilliantly shines in the light.",
+    "DESCRIPTIONS": [
+      "Gain 1 Strength, 1 Dexterity, and 1 Focus at battle start. Gain 3 Weak and Vulnerable at battle start."
+    ]
+  },
+  "${modID}:BlueCrystalYatima": {
+    "NAME": "Blue Crystal",
+    "FLAVOR": "A crystal that brilliantly shines in the light.",
+    "DESCRIPTIONS": [
+      "For the first 3 turns of each combat, the first card you play each turn is played twice."
+    ]
+  },
+  "${modID}:ShieldOfTenets": {
+    "NAME": "Shield Of Tenets",
+    "FLAVOR": "A relic representing the power of the god of the skies.",
+    "DESCRIPTIONS": [
+      "Whenever you add an #yRare card to your deck, #yUpgrade it."
+    ]
+  },
+  "${modID}:SwordOfBahamut": {
+    "NAME": "Sword Of Bahamut",
+    "FLAVOR": "This sabre was imbued with terrified admiration of the sharp claws of the Great Dragon. Its deadly blade can gouge out the core of the earth itself, flinging it far off into the horizon.",
+    "DESCRIPTIONS": [
+      "Gain 1 #yStrength at combat start."
+    ]
+  },
+  "${modID}:SwordOfBahamutCoda": {
+    "NAME": "Sword Of Bahamut Coda",
+    "FLAVOR": "Molded after the sharp claws of the Great Dragon, an ultimate sword created to inspire fear in all. If used to cut through the earth, it could send the world plumetting down to the depths of the skies.",
+    "DESCRIPTIONS": [
+      "Gain 4 health. Gain 2 #yStrength at combat start."
+    ]
+  },
+  "${modID}:DaggerOfBahamut": {
+    "NAME": "Dagger Of Bahamut",
+    "FLAVOR": "This dagger was imbued with terrified admiration of the powerful fangs of the Great Dragon. Its immense power can sever the threads of fate, instantly erasing its victim's existence.",
+    "DESCRIPTIONS": [
+      "Gain 1 #yDexterity at combat start."
+    ]
+  },
+  "${modID}:DaggerOfBahamutCoda": {
+    "NAME": "Dagger Of Bahamut Coda",
+    "FLAVOR": "This dagger was created out of admiration for the powerful fangs of the Great Dragon. A single strike can foretell the end of its victim as it rips through the very fabric of fate, leaving no trace that the victim ever existed.",
+    "DESCRIPTIONS": [
+      "Gain 4 health. Gain 2 #yDexterity at combat start."
+    ]
+  },
+  "${modID}:StaffOfBahamut": {
+    "NAME": "Staff Of Bahamut",
+    "FLAVOR": "This wand was imbued with terrified awe at the expansive wisdom of the Great Dragon. It effortlessly commands a despair far beyond human comprehension.",
+    "DESCRIPTIONS": [
+      "Gain 1 #yFocus at combat start."
+    ]
+  },
+  "${modID}:StaffOfBahamutCoda": {
+    "NAME": "Staff Of Bahamut Coda",
+    "FLAVOR": "Molded after the sublime intelligence of the Great Dragon, an ultimate staff created to inspire fear in all. It's supreme wisdom far surpassing that of a human's winds instintively, engulfing all of eternity and truth.",
+    "DESCRIPTIONS": [
+      "Gain 4 health. Gain 2 #yFocus at combat start."
+    ]
+  },
+  "${modID}:HarpOfBahamut": {
+    "NAME": "Harp Of Bahamut",
+    "FLAVOR": "This harp was imbued with terrified admiration of the dark wings of the Great Dragon. Its destructive notes drive all who hear them mad and cause chaos throughout the skies.",
+    "DESCRIPTIONS": [
+      "Add a #yMiracle to your hard at combat start."
+    ]
+  },
+  "${modID}:HarpOfBahamutCoda": {
+    "NAME": "Harp Of Bahamut Coda",
+    "FLAVOR": "This harp represents the unique shape of the supreme dragon's wings. A melody plucked on this harp will drive all who hear it to madness and summon catastrophic tornadoes.",
+    "DESCRIPTIONS": [
+      "Gain 4 health. Add a #yMiracle+ to your hard at combat start."
+    ]
+  },
+  "${modID}:ShieldOfLamentation": {
+    "NAME": "Shield Of Lamentation",
+    "FLAVOR": "A shield belonging to a knight descended from far above in order to reform a world stained in disorder.",
+    "DESCRIPTIONS": [
+      "Whenever you play an #yAttack, the all enemies lose ",
+      " additional HP. Damage increases each act."
+    ]
+  },
+  "${modID}:CosmicSword": {
+    "NAME": "Cosmic Sword",
+    "FLAVOR": "Sword of balance that governs chaos. A young girl with red pupils weaves the power of an enslaved dragon, crystallizing it with a skybound prayer. The radiance gives way to dawn, instilling order to a troubled world.",
+    "DESCRIPTIONS": [
+      "Whenever you play a Power, Attack, and Skill in the same turn, double all damage your Attacks for the rest of the turn."
+    ]
+  },
+  "${modID}:AzureFeather": {
+    "NAME": "Azure Feather",
+    "FLAVOR": "A deep blue feather.",
+    "DESCRIPTIONS": [
+      "For the first 3 turns of each combat, the first Attack card you play each turn heals you ",
+      " HP."
+    ]
+  },
+  "${modID}:CrystalRose": {
+    "NAME": "Crystal Rose",
+    "FLAVOR": "The piercing scarlet of this rose-shaped crystal gives it a beautiful luster.",
+    "DESCRIPTIONS": [
+      "Gain a copy of your first relic (unless it is #yCrystal #yRose)."
+    ]
+  },
+  "${modID}:LoveEternal": {
+    "NAME": "Love Eternal",
+    "FLAVOR": "Roses adorn the exquisite blade, its edge shimmers with mysterious sheen. It feels as if it was made in a time before time, and served in a world long before ours.",
+    "DESCRIPTIONS": [
+      "Add a #yShiv to your hard at the start of your turn. It deals +1 damage for each #yDexterity and #yFocus you have."
+    ]
+  },
+  "${modID}:VerdantAzurite": {
+    "NAME": "Verdant Azurite",
+    "FLAVOR": "A crystalline structure that brings out the power of arbitration.",
+    "DESCRIPTIONS": [
+      "Upgrade 2 cards of the highest rarity present in your deck."
+    ]
+  },
+  "${modID}:RoseShield": {
+    "NAME": "Rose Shield",
+    "FLAVOR": "A relic of the Rose Queen. All who behold her bewitching crimson roses instantly fall under her spell. Those foolish enough to wage war against her are swiftly swallowed up in a tomb of petals and vines.",
+    "DESCRIPTIONS": [
+      "Whenever you would lose HP, lose 1 less."
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+
+protobaha2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sprite-1-1
+  rotate: false
+  xy: 853, 1
+  size: 715, 609
+  orig: 717, 611
+  offset: 1, 1
+  index: -1
+sprite-2-2
+  rotate: false
+  xy: 587, 1903
+  size: 81, 142
+  orig: 83, 144
+  offset: 1, 1
+  index: -1
+sprite-5-4
+  rotate: false
+  xy: 670, 1903
+  size: 108, 98
+  orig: 110, 100
+  offset: 1, 1
+  index: -1
+sprite-1-2
+  rotate: false
+  xy: 499, 1514
+  size: 282, 387
+  orig: 284, 389
+  offset: 1, 1
+  index: -1
+sprite-8-1
+  rotate: false
+  xy: 1, 1846
+  size: 298, 158
+  orig: 300, 160
+  offset: 1, 1
+  index: -1
+sprite-5-1
+  rotate: false
+  xy: 783, 1731
+  size: 302, 204
+  orig: 304, 206
+  offset: 1, 1
+  index: -1
+sprite-5-5
+  rotate: false
+  xy: 853, 612
+  size: 74, 131
+  orig: 76, 133
+  offset: 1, 1
+  index: -1
+sprite-4-2
+  rotate: false
+  xy: 783, 1514
+  size: 491, 215
+  orig: 493, 217
+  offset: 1, 1
+  index: -1
+sprite-9-1
+  rotate: false
+  xy: 301, 1903
+  size: 284, 92
+  orig: 286, 94
+  offset: 1, 1
+  index: -1
+sprite-5-3
+  rotate: false
+  xy: 1276, 612
+  size: 105, 187
+  orig: 107, 189
+  offset: 1, 1
+  index: -1
+sprite-5-2
+  rotate: false
+  xy: 1087, 1731
+  size: 266, 231
+  orig: 268, 233
+  offset: 1, 1
+  index: -1
+sprite-4-1
+  rotate: false
+  xy: 1, 1514
+  size: 496, 330
+  orig: 498, 332
+  offset: 1, 1
+  index: -1
+sprite-9-3
+  rotate: false
+  xy: 929, 612
+  size: 53, 117
+  orig: 55, 119
+  offset: 1, 1
+  index: -1
+sprite-6-2
+  rotate: false
+  xy: 984, 612
+  size: 71, 86
+  orig: 73, 88
+  offset: 1, 1
+  index: -1
+sprite-5-6
+  rotate: false
+  xy: 1291, 1964
+  size: 31, 64
+  orig: 33, 66
+  offset: 1, 1
+  index: -1
+sprite-9-2
+  rotate: false
+  xy: 1118, 1964
+  size: 81, 83
+  orig: 83, 85
+  offset: 1, 1
+  index: -1
+sprite-8-2
+  rotate: false
+  xy: 883, 1937
+  size: 126, 73
+  orig: 128, 75
+  offset: 1, 1
+  index: -1
+sprite-6-1
+  rotate: false
+  xy: 780, 1937
+  size: 101, 102
+  orig: 103, 104
+  offset: 1, 1
+  index: -1
+sprite-3-4
+  rotate: false
+  xy: 1201, 1964
+  size: 88, 61
+  orig: 90, 63
+  offset: 1, 1
+  index: -1
+sprite-3-2
+  rotate: false
+  xy: 670, 2003
+  size: 30, 41
+  orig: 32, 43
+  offset: 1, 1
+  index: -1
+sprite-7-1
+  rotate: false
+  xy: 1011, 1964
+  size: 105, 76
+  orig: 107, 78
+  offset: 1, 1
+  index: -1
+white-transition
+  rotate: false
+  xy: 1, 1
+  size: 850, 1511
+  orig: 850, 1511
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,74 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description. NL Second line.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:DaggerOfBahamut": {
+    "NAME": "Dagger Of Bahamut",
+    "DESCRIPTION": "Forge the Dagger Of Bahamut. NL (+1 Strength at battle start)",
+    "UPGRADE_DESCRIPTION": "Forge the Dagger Of Bahamut Coda. NL (+2 Strength at battle start and +4 Max HP)"
+  },
+  "${modID}:SwordOfBahamut": {
+    "NAME": "Sword Of Bahamut",
+    "DESCRIPTION": "Forge the Sword Of Bahamut. NL (+1 Dexterity at battle start)",
+    "UPGRADE_DESCRIPTION": "Forge the Sword Of Bahamut Coda. NL (+2 Dexterity at battle start and +4 Max HP)"
+  },
+  "${modID}:StaffOfBahamut": {
+    "NAME": "Staff Of Bahamut",
+    "DESCRIPTION": "Forge the Staff Of Bahamut. NL (+1 Focus at battle start)",
+    "UPGRADE_DESCRIPTION": "Forge the Staff Of Bahamut Coda. NL (+2 Focus at battle start and +4 Max HP)"
+  },
+  "${modID}:HarpOfBahamut": {
+    "NAME": "Harp Of Bahamut",
+    "DESCRIPTION": "Forge the Harp Of Bahamut. NL (Get Miracle at battle start)",
+    "UPGRADE_DESCRIPTION": "Forge the Harp Of Bahamut Coda. NL (Get Miracle+ at battle start and +4 Max HP)"
+  },
+  "${modID}:TiamatOmega": {
+    "NAME": "Tiamat Omega",
+    "DESCRIPTION": "Deal !D! damage to all enemies. NL Apply !M! Weak."
+  },
+  "${modID}:ColossusOmega": {
+    "NAME": "Colossus Omega",
+    "DESCRIPTION": "Deal !D! damage to all enemies. NL Grain !B! Block."
+  },
+  "${modID}:LeviathanOmega": {
+    "NAME": "Leviathan Omega",
+    "DESCRIPTION": "Deal !D! damage to all enemies. NL Apply !M! Vulnerable."
+  },
+  "${modID}:YggdrasilOmega": {
+    "NAME": "Yggdrasil Omega",
+    "DESCRIPTION": "Deal !D! damage to all enemies. NL Randomly do 1, repeat !M! times: NL 1) Gain 1 Temporary Strength NL 2) Gain 1 Temporary Dexterity."
+  },
+  "${modID}:LuminieraOmega": {
+    "NAME": "Luminiera Omega",
+    "DESCRIPTION": "Deal !D! damage. NL If target has 1 or more Strength and/or Dexterity, remove it."
+  },
+  "${modID}:CelesteOmega": {
+    "NAME": "Celeste Omega",
+    "DESCRIPTION": "Remove target's Block. NL Deal of it half as damage. NL ",
+    "UPGRADE_DESCRIPTION": "(Deals !D! damage)"
+
+  },
+  "${modID}:ShivaCall": {
+    "NAME": "Shiva's Call",
+    "DESCRIPTION": "Deal !D! damage. NL Grain !M! Vigor. NL Exhaust"
+  },
+  "${modID}:EuropaCall": {
+    "NAME": "Europa's Call",
+    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP. NL Exhaust"
+  },
+  "${modID}:AlexielCall": {
+    "NAME": "Alexiel's Call",
+    "DESCRIPTION": "Gain !M! Intangible. NL Grain !B! Block. NL Exhaust"
+  },
+  "${modID}:GrimnirCall": {
+    "NAME": "Grimnir's Call",
+    "DESCRIPTION": "Deal !D! damage. NL Grain !B! Block. NL Exhaust"
+  }
+}

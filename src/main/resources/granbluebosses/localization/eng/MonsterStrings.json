@@ -1,0 +1,243 @@
+{
+  "${modID}:ProtoBaha": {
+    "MOVES": [
+      "Ragnarok Field",
+      "Skyfall",
+      "Reginleiv",
+      "Arcadia",
+      "Abdak Force",
+      "Supernova",
+      "Reginleiv Recidive",
+      "Arcadia Khloron",
+      "Unchain"
+    ],
+    "NAME": "Proto Bahamut",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "${modID}:GrandOrder": {
+    "MOVES": [
+      "Spinning Slash",
+      "Bisection",
+      "Prism Halo",
+      "Opposition",
+      "Conjunction",
+      "Ruler of Fate",
+      "Gamma Ray",
+      "The Last Wish",
+      "Outburst",
+      "Field Of Mediation",
+      "Peacemaker's Wings"
+    ],
+    "NAME": "Grand Order",
+    "DIALOG": [
+      "When something which might throw the world off balance rises, I am made manifest!",
+      "Deyaaaa!",
+      "You will perish... Return to the void between sky and stars!",
+      "Seal it away, O kaleidoscopic barrier!",
+      "I grant you the light of destruction...",
+      "Ah... Gah...",
+      "Come forth! The Peacemaker's Wings!",
+      "Here we go! For by my sword which is a mirror reflecting the blue sky, I will sever the sorrow of all creation!",
+      "Sever!",
+      "All things in nature, the dawn of creation! Accept it with your body and turn to ash!",
+      "Now, let us head into the apocalypse together.",
+      "Which of us is nearing the brink of destruction...?",
+      "The flow of the world... is in turmoil...",
+      "Splendid... If it's you, then the world...",
+      "I shall acknowledge it. You people are indeed the enemy of the world.",
+      "All things in creation, falling spark of demise! Become an offering to the neverending blackest night! Gamma Ray!",
+      "Behold the light of countless lives! The Last Wish!",
+      "My azure conviction shall condemn the arrogance of taking the world as your enemy!",
+      "I see... So, you people are... the order of the new world...",
+      "Oh, unwanted beings in the preservation of the starry skies' equilibrium, disappear into the limits of nothingness!",
+      "My azure conviction shall condemn the arrogance of taking the world as your enemy!"
+    ]
+  },
+  "${modID}:Celeste": {
+    "MOVES": [
+      "Tranquil Fog",
+      "Bizarre Fog"
+    ],
+    "NAME": "Celeste",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "${modID}:Celeste2": {
+    "MOVES": [
+      "Tranquil Fog",
+      "Bizarre Fog",
+      "Null Void"
+    ],
+    "NAME": "Celeste",
+    "DIALOG": [
+      "Tranquil Fog",
+      "Bizarre Fog",
+      "Null Void"
+    ]
+  },
+  "${modID}:Colossus": {
+    "MOVES": [
+      "Ignite",
+      "Force Field"
+    ],
+    "NAME": "Colossus",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "${modID}:Colossus2": {
+    "MOVES": [
+      "Ignite",
+      "Force Field",
+      "Dimensional Cleaver"
+    ],
+    "NAME": "Colossus",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "${modID}:Leviathan": {
+    "MOVES": [
+      "Cascade",
+      "Azure Blade"
+    ],
+    "NAME": "Leviathan",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "${modID}:Leviathan2": {
+    "MOVES": [
+      "Cascade",
+      "Azure Blade",
+      "Perilous Tidefall"
+    ],
+    "NAME": "Leviathan",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "${modID}:Luminiera": {
+    "MOVES": [
+      "Aegis Merge",
+      "Iliad Merge",
+      "Blade Of Light"
+    ],
+    "NAME": "Luminiera",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "${modID}:Luminiera2": {
+    "MOVES": [
+      "Aegis Merge",
+      "Iliad Merge",
+      "Blade Of Light"
+    ],
+    "NAME": "Luminiera",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "${modID}:Tiamat": {
+    "MOVES": [
+      "Wind Torrent",
+      "Crippling Storm"
+    ],
+    "NAME": "Tiamat",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "${modID}:Tiamat2": {
+    "MOVES": [
+      "Wind Torrent",
+      "Crippling Storm",
+      "Terror Absolute"
+    ],
+    "NAME": "Tiamat",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "${modID}:Yggdrasil": {
+    "MOVES": [
+      "Luminox Genesi",
+      "Axis Mundi",
+      "SongOfGrace"
+    ],
+    "NAME": "Yggdrasil",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "${modID}:Yggdrasil2": {
+    "MOVES": [
+      "Luminox Genesi",
+      "Axis Mundi",
+      "SongOfGrace"
+    ],
+    "NAME": "Yggdrasil",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "${modID}:Alexiel": {
+    "MOVES": [
+      "Uncrossable Realm",
+      "Mirror Blade Eruption",
+      "Mirror Blade Helix"
+    ],
+    "NAME": "Alexiel",
+    "DIALOG": [
+      "I accept your challenge.",
+      "Can you withstand my mightiest attack?"
+    ]
+  },
+  "${modID}:Europa": {
+    "MOVES": [
+      "Floral Prison",
+      "Mana Blast",
+      "Taurus Blight"
+    ],
+    "NAME": "Europa",
+    "DIALOG": [
+      "Such is our fate, so shall our crossing be.",
+      "Realize firsthand, this Mercurial luster."
+    ]
+  },
+  "${modID}:Grimnir": {
+    "MOVES": [
+      "Rambling",
+      "Divine Wind",
+      "Holy Ray Of Purification",
+      "Flee"
+    ],
+    "NAME": "Grimnir",
+    "DIALOG": [
+      "It is I... the Dancing Mad Cyclone! Grrriiiiiiimnir!",
+      "Now is the hour for my right hand to be set free from its proscription... May the heavens tremble, may the earth be cleft asunder, and may myriad evils be exterminated!",
+      "Woah! Hey, time out!",
+      "Know this... One thrust of this spear shall cut thee down!",
+      "Thou'dst do well to engrave this upon thy heart.",
+      "My winds... shall bring forth ruin!",
+      "With my hand... I shall howl out thy demise!",
+      "Gah!! ... No cool lines come to mind!"
+    ]
+  },
+  "${modID}:Shiva": {
+    "MOVES": [
+      "Rudra",
+      "Sri Rudram",
+      "Awaken Inner Eye"
+    ],
+    "NAME": "Shiva",
+    "DIALOG": [
+      "By my hand, I will conduct your funerary rites to the dark abyss.",
+      "By the purifying light of destruction, return to nothing!"
+    ]
+  }
+}

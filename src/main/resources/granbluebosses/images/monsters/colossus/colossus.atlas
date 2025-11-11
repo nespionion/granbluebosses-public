@@ -1,0 +1,13 @@
+
+colossus.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Summon_b_2030001000
+  rotate: false
+  xy: 1, 1
+  size: 535, 628
+  orig: 640, 628
+  offset: 69, 0
+  index: -1

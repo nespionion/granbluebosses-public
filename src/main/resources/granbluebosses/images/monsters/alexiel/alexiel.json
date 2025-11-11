@@ -1,0 +1,1 @@
+{"skeleton":{"width":456,"height":380,"fps":24,"hash":" ","name":"Armature"},"bones":[{"name":"root"}],"slots":[{"name":"sprite_template","bone":"root","attachment":"sprite_template"}],"skins":{"default":{"sprite_template":{"sprite_template":{"name":"sprite_template","width":456,"height":380,"x":-7.9,"y":80.79,"scaleX":1.6,"scaleY":1.6}}}}}
